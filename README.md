@@ -20,13 +20,3 @@
   
   ![Snake animation](https://github.com/Patrick-D-Lucas/Patrick-D-Lucas/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
-  <p align="center"> 
-
- ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="src="https://profile-counter.glitch.me/Patrick-D-Lucas/count.svg" />
- </p>
-
-</p>
-  
