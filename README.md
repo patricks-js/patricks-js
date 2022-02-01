@@ -32,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70px "/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="70px "/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="70px " />
+  <img src="https://styled-components.com/logo.png" width="80px" />
+  <img src="https://pics.freeicons.io/uploads/icons/png/9267873881551942642-512.png" width="80px" />
   
   ##
   <h3>interests</h3>
