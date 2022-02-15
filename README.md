@@ -8,10 +8,11 @@
 <div>
 <h2> About me: </h2> 
   <ul>
-    <li> :earth_americas: I'm from Brazil
-    <li> ❤️ Passionate about technology 
-    <li> ⚛️ Front-end Developer
-    <li> :books: <cite><em>&ldquo;Never stop learning&ldquo;</em></cite> 
+    <li> :earth_americas: I'm from Brazil </li>
+    <li> ❤️ Passionate about technology </li>
+    <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:17px;"/>
+ Front-end Developer </li>
+    <li> :books: <cite><em>&ldquo;Never stop learning&ldquo;</em></cite> </li>
     <li> ⌛ 18 year </li>
   </ul>
 </div>
