@@ -1,22 +1,4 @@
-<div align='center'><h1>Hello, i'm _Lucas Patrick_ 😎</h1></div>
-
-<br>
-
-## Welcome to my profile 👋
-
-<br>
-<div>
-<h2> About me: </h2> 
-  <ul>
-    <li> :earth_americas: I'm from Brazil </li>
-    <li> ❤️ Passionate about technology </li>
-    <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:17px;"/>
- Front-end Developer </li>
-    <li> :books: <cite><em>&ldquo;Never stop learning&ldquo;</em></cite> </li>
-    <li> ⌛ 18 year </li>
-  </ul>
-</div>
-
+<h1 align="center">Olá, sou Lucas Patrick. Bem-vindo 👋</h1>
 <br />
 
 <div align="center">
@@ -35,25 +17,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px " />
   
   ##
-  <h3>Studying these technologies</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width:70px; margin-right: 50px;"/>
+  <h3>Techs que estou estudando</h3>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:70px;"/>         
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60px "/>
   
-   ##
-  <h3>Libs</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70px "/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="70px "/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="70px " />
-  <img src="https://styled-components.com/logo.png" width="80px" />
-  <img src="https://pics.freeicons.io/uploads/icons/png/9267873881551942642-512.png" width="80px" />
-  
-  ##
-  <h3>interests</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100px "/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="70px "/>
-  
- 
 </div>
 
 ##
