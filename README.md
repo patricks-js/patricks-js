@@ -48,15 +48,15 @@
   <h3> Conctacts: </h3> 
   <br>
    &nbsp;&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/patrick-lsilva/">
+   <a href="https://www.linkedin.com/in/patrick-lsilva/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
    &nbsp;&nbsp;&nbsp;
-   <a href="https://www.instagram.com/patricks.js">
+   <a href="https://www.instagram.com/patricks.js" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
    </a>
    &nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/patricks-js">
+   <a href="https://github.com/patricks-js" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
    </a>
 </div>
