@@ -14,6 +14,7 @@
 
 <div align="center">
   <h3>Skills:</h3>
+  <br>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px" />
   &nbsp;&nbsp;&nbsp;
@@ -23,6 +24,7 @@
   
   ##
   <h3>Techs que estou estudando:</h3>
+  <br>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70px" />   
    &nbsp;&nbsp;&nbsp;
@@ -32,6 +34,7 @@
 
   ## 
   <h3>Próximos passos:</h3>
+  <br>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70px" />
    &nbsp;&nbsp;&nbsp;
@@ -42,8 +45,8 @@
 ##
 
 <div align="center">
-  <h2> Conctacts: </h2> 
-  <div></div>
+  <h3> Conctacts: </h3> 
+  <br>
    &nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/patrick-lsilva/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
