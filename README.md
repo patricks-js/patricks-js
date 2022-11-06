@@ -10,10 +10,10 @@
 - 💻 I'm Front-end developer
 - ☕ Want a coffee? Let's drink and talk
 - 📚 I love learning more
-- ⚛️ JavaScript | TYpeScript | React | Tailwindcss
+- ⚛️ JavaScript | TypeScript | React | Tailwindcss | Node.js | Postgres | Prisma
 - 🎞️ My projects showcase: [patrickjs.vercel.app](https://patrickjs.vercel.app)
 
-* * *
+* * * 
 
 <div align="center">
   <h3>Hot techs and tools:</h3>
@@ -25,22 +25,35 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70px"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70px" />   
+          
+* * *
+  
+  <h3>Tools:</h3>
+  <br>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70px" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70px" />
-          
-
+  
 * * *
   
   <h3>What am I studying?</h3>
   <br>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70px" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70px" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" width="70px" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70px" />
    &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70px" />
    &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70px" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70px" />
 
+  
  * * * 
   
   <h3>Next steps:</h3>
@@ -50,7 +63,7 @@
    &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70px" />
    &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70px" />
+  
           
 
 </div>
