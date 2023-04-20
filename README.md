@@ -15,7 +15,7 @@
 
 <br />
 
-<h2>Front-End Stack</h2>
+<h2>👨‍💻 Front-End Stack</h2>
 
 <br />
 
@@ -29,7 +29,7 @@
   
 <br />
 
-<h2>Back-End Stack</h2>
+<h2>👨‍💻 Back-End Stack</h2>
 
 <br />
 
@@ -43,7 +43,7 @@
   
 <br />
   
-<h2>Tools:</h2>
+<h2>⚙️ Tools</h2>
   
 <br />
 
