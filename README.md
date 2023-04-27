@@ -11,7 +11,7 @@
 - ☕ Want a coffee? Let's drink and talk <br />
 - 📚 I love learning more <br />
 - ⚛️  TypeScript | React | Tailwindcss | Node.js | Postgres | Prisma <br />
-- 🎞️ My projects showcase: [patrickjs.vercel.app](https://patrickjs.vercel.app) <br />
+- 🎞️ My projects showcase: <a href="https://patrickjs.vercel.app/">Ctrl + click here</a> <br />
 
 <br />
 
