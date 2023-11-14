@@ -1,44 +1,34 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<img src="https://raw.githubusercontent.com/patricks-js/patricks-js/main/img/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/patricks-js/patricks-js/main/img/banner2.png" width="100%">
 
 **Hi guys, I'm Lucas Patrick. 👋**
 
 * * *
 
 <h2>💫 About me</h2>
-- 💻 I'm Full Stack developer <br />
+- 💻 I'm a Software Engineer in training <br />
 - ☕ Want a coffee? Let's drink and talk <br />
-- 📚 I love learning more <br />
-- ⚛️  TypeScript | React | Tailwindcss | Node.js | Postgres | Prisma <br />
-- 🎞️ My projects showcase: <a href="https://patrickjs.vercel.app/">Ctrl + click here</a> <br />
+- 📚 I love learning more about technology <br />
+- ⚛️  JavaScript | TypeScript | Java | Database | Front-End | Back-End  <br />
+- 🎞️ My projects showcase: <a href="https://patrickjs.vercel.app/" alt="_blank">Ctrl + click here</a> <br />
 
 <br />
 
-<h2>👨‍💻 Front-End Stack</h2>
+<h2>👨‍💻 Technologies</h2>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
-  <img src="https://img.shields.io/badge/tailwindcss-0C0D20?style=for-the-badge&logo=tailwindcss" alt="Tailwindcss" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next Js" />
-</div>
-  
-<br />
-
-<h2>👨‍💻 Back-End Stack</h2>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node">
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="next js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss">
 </div>
   
 <br />
@@ -48,6 +38,7 @@
 <br />
 
 <div align="center">  
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   <img src="https://img.shields.io/badge/figma-ea4c1d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -71,9 +62,6 @@
   </a>
   <a href="https://github.com/patricks-js" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitch.tv/patricks_ts" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
   </a>
   <a href="https://discord.gg/patrick.js#7091" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white">
