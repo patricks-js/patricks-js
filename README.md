@@ -10,7 +10,7 @@
 - 💻 I'm a Software Engineer in training <br />
 - ☕ Want a coffee? Let's drink and talk <br />
 - 📚 I love learning more about technology <br />
-- ⚛️  JavaScript | TypeScript | Java | Database | Front-End | Back-End  <br />
+- ⚛️  JavaScript | TypeScript | Java | Spring | PostgreSQL | MongoDB  <br />
 - 🎞️ My projects showcase: <a href="https://patrickjs.vercel.app/" alt="_blank">Ctrl + click here</a> <br />
 
 <br />
