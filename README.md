@@ -6,7 +6,7 @@
 
 * * *
 
-<h2>💫 About me</h2>
+## 💫 About me
 - 💻 I'm a Software Engineer in training <br />
 - ☕ Want a coffee? Let's drink and talk <br />
 - 📚 I love learning more about technology <br />
@@ -15,7 +15,11 @@
 
 <br />
 
-<h2>👨‍💻 Technologies</h2>
+<div style="display: inline-block; margin-left: 20px;">
+  <a align="right" href="https://app.daily.dev/patricks"><img src="https://github.com/patricks-js/patricks-js/blob/main/devcard.svg" width="400" alt="Lucas Patrick's Dev Card"/></a>
+</div>
+
+## 👨‍💻 Technologies
 
 <br />
 
@@ -33,7 +37,7 @@
   
 <br />
   
-<h2>⚙️ Tools</h2>
+## ⚙️ Tools
   
 <br />
 
@@ -49,7 +53,7 @@
 
 <br />
 
-<h2>🌐 Socials</h2> 
+## 🌐 Socials 
 
 <br />
 
@@ -73,7 +77,7 @@
 
 <br />
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <br />
 
