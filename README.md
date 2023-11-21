@@ -1,21 +1,18 @@
-# Hi, I'm Lucas Patrick. 👋
-<img src="https://raw.githubusercontent.com/patricks-js/patricks-js/main/img/banner2.png" width="100%">
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1;">
-    <h2>💫 About me</h2>
-    <ul>
-      <li>💻 I'm a Software Engineer in training</li>
-      <li>☕ Want a coffee? Let's drink and talk</li>
-      <li>📚 I love learning more about technology</li>
-      <li>⚛️ JavaScript | TypeScript | Java | Spring | PostgreSQL | MongoDB</li>
-      <li>🎞️ My projects showcase: [Ctrl + click here](https://patrickjs.vercel.app/)</li>
-    </ul>
-  </div>
-  <div style="margin-left: 20px;">
-    <a href="https://app.daily.dev/patricks"><img src="https://github.com/patricks-js/patricks-js/blob/main/devcard.svg" width="400" alt="Lucas Patrick's Dev Card"/></a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono+Nerd+Font&size=28&duration=3500&pause=1000&center=true&random=false&width=435&lines=Software+Engineer;Web+Developer;Programmer" alt="Typing SVG" /></a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<a href="https://app.daily.dev/patricks"><img align="right" src="https://github.com/patricks-js/patricks-js/blob/main/devcard.svg" width="300" alt="Lucas Patrick's Dev Card"/></a>
+
+## 💫 About me
+
+I'm a **Brazilian software engineering student** and I've been involved with programming for 4 years now. During this time, I've been studying languages and tools such as JavaScript, TypeScript, Node, React, Java and Spring. I currently consider myself a Junior.
+
+I'm **passionate about technology** and, for me, software engineering goes far beyond the code, it's the general processes that involve this universe, which has made me love the area even more.
+
+I like solving problems and helping other people develop in programming, as well as learning from it because I still have a lot to discover. You can see **my main skills** below:
+    
 ## 👨‍💻 Technologies
 
 <div>
@@ -28,6 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="mongodb">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="c">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="docker">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="40" alt="bash">
 </div>
   
 ## ⚙️ Tools
