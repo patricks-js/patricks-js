@@ -7,7 +7,7 @@
 
 ## 💫 About me
 
-I'm a **Brazilian software engineering student** and I've been involved with programming for 4 years now. During this time, I've been studying languages and tools such as JavaScript, TypeScript, Node, React, Java and Spring. I currently consider myself a Junior.
+I'm a **Brazilian software engineering student** and I've been involved with programming for 4 years now. During this time, I've been studying languages and tools such as JavaScript, TypeScript, Node, React, Java and Spring.
 
 I'm **passionate about technology** and, for me, software engineering goes far beyond the code, it's the general processes that involve this universe, which has made me love the area even more.
 
