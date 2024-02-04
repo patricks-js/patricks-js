@@ -24,6 +24,7 @@ I like solving problems and helping other people develop in programming, as well
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="postgresql">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="mongodb">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="c">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="csharp">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="docker">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="40" alt="bash">
 </div>
@@ -37,6 +38,7 @@ I like solving problems and helping other people develop in programming, as well
 ![Trello](https://img.shields.io/badge/trello-006eb6?style=for-the-badge&logo=trello&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-0077B5.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![MonoGame](https://img.shields.io/badge/monogame-ea4c1d.svg?style=for-the-badge&logo=monogame&logoColor=white)
 
 ## 🌐 Socials
 
