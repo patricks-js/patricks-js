@@ -26,7 +26,6 @@ I like solving problems and helping other people develop in programming, as well
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="c">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="csharp">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="docker">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="40" alt="bash">
 </div>
   
 ## ⚙️ Tools
@@ -38,7 +37,6 @@ I like solving problems and helping other people develop in programming, as well
 ![Trello](https://img.shields.io/badge/trello-006eb6?style=for-the-badge&logo=trello&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-0077B5.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![MonoGame](https://img.shields.io/badge/monogame-ea4c1d.svg?style=for-the-badge&logo=monogame&logoColor=white)
 
 ## 🌐 Socials
 
@@ -46,4 +44,3 @@ I like solving problems and helping other people develop in programming, as well
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patricks.js)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patricks-js)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/patrick.js#7091)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/patrick-ts)
