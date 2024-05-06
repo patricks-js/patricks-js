@@ -15,28 +15,10 @@ I like solving problems and helping other people develop in programming, as well
     
 ## 👨‍💻 Technologies
 
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" alt="javascript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" alt="typescript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="node">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="java">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="spring">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="postgresql">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="mongodb">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="c">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="csharp">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="docker">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,bun,java,postgres,mongo,cs&perline=10)](https://skillicons.dev)
   
 ## ⚙️ Tools
-
-![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-ea4c1d?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/trello-006eb6?style=for-the-badge&logo=trello&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-0077B5.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=arch,git,github,docker,figma,vscode,vim,md,discord&perline=10)](https://skillicons.dev)
 
 ## 🌐 Socials
 
