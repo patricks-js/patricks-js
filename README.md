@@ -5,7 +5,7 @@
 
 <a href="https://app.daily.dev/patricks"><img align="right" src="./devcard.png" width="356" alt="Patrick's Dev Card"/></a>
 
-<h3>💫 About me</h3>
+### ⚡ About me
 
 I'm a **Brazilian software engineering student** and I've been involved with programming for 4 years now. During this time, I've been studying languages and tools such as JavaScript, TypeScript, Node, React, Java and Spring.
 
@@ -13,15 +13,15 @@ I'm **passionate about technology** and, for me, software goes far beyond the co
 
 I like solving problems and helping other people develop in programming, as well as learning from it because I still have a lot to discover. You can see **my main skills** below:
     
-<h3>👨‍💻 Technologies</h3>
+### 👨‍💻 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,bun,java,postgres,mongo,cs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,next,nodejs,bun,spring,postgres,mongo&perline=7)](https://skillicons.dev)
   
-<h3>⚙️ Tools</h3>
+### ⚙️ Tools
 
-[![My Skills](https://skillicons.dev/icons?i=arch,git,github,docker,figma,vscode,vim,md,discord&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,figma,vscode,vim,md&perline=7)](https://skillicons.dev)
 
-<h3>🌐 Socials</h3>
+### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-lsilva/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patricks.js)
