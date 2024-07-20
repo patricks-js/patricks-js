@@ -5,25 +5,26 @@
 
 <a href="https://app.daily.dev/patricks"><img align="right" src="./devcard.png" width="356" alt="Patrick's Dev Card"/></a>
 
-### ⚡ About me
+### ⚡ About Me
 
-I'm a **Brazilian software engineering student** and I've been involved with programming for 4 years now. During this time, I've been studying languages and tools such as JavaScript, TypeScript, Node, React, Java and Spring.
-
-I'm **passionate about technology** and, for me, software goes far beyond the code, it's the general processes that involve this universe, which has made me love the area even more.
-
-I like solving problems and helping other people develop in programming, as well as learning from it because I still have a lot to discover. You can see **my main skills** below:
+- Software engineer in training at [Jala University](https://jala.university/en/)
+- 2 years of programming experience
+- Passionate about technology and its processes
+- Enjoy solving problems and helping others in programming
+- Constant learner with a love for discovering new things
+- I use Arch, btw
     
-### 👨‍💻 Technologies
+#### 🛠️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=ts,next,nodejs,bun,spring,postgres,mongo&perline=7)](https://skillicons.dev)
   
-### ⚙️ Tools
+#### ⚙️ Tools
 
 [![My Skills](https://skillicons.dev/icons?i=linux,git,docker,figma,vscode,vim,md&perline=7)](https://skillicons.dev)
 
-### 🌐 Socials
+### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-lsilva/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patricks.js)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_patrick.js)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patricks-js)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/patrick.js#7091)
