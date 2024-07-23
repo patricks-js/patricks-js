@@ -16,11 +16,11 @@
     
 #### 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,next,nodejs,bun,spring,postgres,mongo&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,next,nodejs,spring,postgres,mongo&perline=7)](https://skillicons.dev)
   
 #### ⚙️ Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,figma,vscode,vim,md&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,figma,vscode,md&perline=7)](https://skillicons.dev)
 
 ### 🌐 Connect with Me
 
