@@ -3,9 +3,11 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://app.daily.dev/patricks"><img align="right" src="./devcard.png" width="356" alt="Patrick's Dev Card"/></a>
 
 ### ⚡ About Me
+
+Hello, folks. I'm Patrick, **full-stack developer**, currently looking to improve my skills. My main stack is **JavaScript** (Next, Node/Bun), but I'm **expanding my knowledge** to other languages such as Go and Rust.
+
 
 - Software engineer in training at [Jala University](https://jala.university/en/)
 - 2 years of programming experience
@@ -16,7 +18,7 @@
     
 #### 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,next,nodejs,spring,postgres,mongo&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,next,nodejs,bun,spring,postgres,mongo&perline=7)](https://skillicons.dev)
   
 #### ⚙️ Tools
 
