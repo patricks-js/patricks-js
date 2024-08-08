@@ -6,7 +6,7 @@
 
 ### ⚡ About Me
 
-Hello, folks. I'm Patrick, **web developer**, currently looking to improve my skills. My main stack is **JavaScript** (Next, Node/Bun), but I'm **expanding my knowledge** to other languages such as Go and Rust.
+Hello, folks. I'm Patrick, **web developer**, currently looking to improve my skills. My main stack is **JavaScript** (Next, Node/Bun), but I'm **expanding my knowledge** to other languages such as Java, Go and Python.
 
 
 - Software engineer in training at [Jala University](https://jala.university/en/)
