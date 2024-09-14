@@ -6,8 +6,8 @@
 
 ### ⚡ About Me
 
-Hello, folks. I'm Patrick, **web developer**, currently looking to improve my skills. My main stack is **JavaScript** (Next, Node/Bun), but I'm **expanding my knowledge** to other languages such as Java, Go and Python.
-
+Hello, folks. I'm Patrick, **web developer**, currently looking to improve my skills. My main stack is **JavaScript** (Next, Node/Bun).
+<!-- , but I'm **expanding my knowledge** to other languages such as Java, Go and Python. -->
 
 - Software engineer in training at [Jala University](https://jala.university/en/)
 - 2 years of programming experience
@@ -15,14 +15,14 @@ Hello, folks. I'm Patrick, **web developer**, currently looking to improve my sk
 - Enjoy solving problems and helping others in programming
 - Constant learner with a love for discovering new things
 - I use Arch, btw
-    
+
 #### 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,next,nodejs,bun,spring,postgres,mongo&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,next,tailwindcss,nodejs,bun,vitest,spring,postgres,mongo&perline=10)](https://skillicons.dev)
   
 #### ⚙️ Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,figma,vscode,md&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,figma,vscode,vercel,md&perline=7)](https://skillicons.dev)
 
 ### 🌐 Connect with Me
 
