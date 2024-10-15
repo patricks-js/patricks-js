@@ -18,7 +18,7 @@ Hello, folks. I'm Patrick, **web developer**, currently looking to improve my sk
 
 #### 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,next,tailwindcss,nodejs,bun,vitest,spring,postgres,mongo&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,next,tailwindcss,nodejs,bun,vitest,postgres,mongo&perline=10)](https://skillicons.dev)
   
 #### ⚙️ Tools
 
