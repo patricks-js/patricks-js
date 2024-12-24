@@ -30,6 +30,6 @@ Currently, I'm studying Software Engineering at [Jala University](https://jala.u
 
 ### 🎨 **Fun Facts About Me**
 
-- **🖥️ OS:** I use Arch Linux, btw. 😉
+- **🖥️ OS:** I use Arch, btw. 😉
 - **📚 Interests:** Learning about artificial intelligence and improving my skills in programming.
 - **🌱 Philosophy:** Never stop learning and sharing knowledge.
