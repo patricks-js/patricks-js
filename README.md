@@ -13,19 +13,13 @@ Olá, sou **Lucas Patrick**, um **desenvolvedor Web full-stack** apaixonado por 
 
 Atualmente, sou estudante de Engenharia de Software na [Jala University](https://jala.university/pt/). Sou movido pela curiosidade e gosto de resolver problemas, compartilhar conhecimento e explorar novas tecnologias.
 
----
-
 ### 🛠️ **Tecnologias**
 
 [![Technologies](https://skillicons.dev/icons?i=ts,next,tailwindcss,nodejs,bun,vitest,prisma,postgres,mongo&perline=10)](https://skillicons.dev)
 
----
-
 ### ⚙️ **Ferramentas que Utilizo**
 
 [![Tools](https://skillicons.dev/icons?i=linux,git,docker,figma,vscode,vercel,md&perline=7)](https://skillicons.dev)
-
----
 
 ### 🌐 **Vamos nos Conectar?**
 
@@ -35,8 +29,6 @@ Sinta-se à vontade para entrar em contato comigo ou acompanhar meu trabalho em 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_patrick.js)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patricks-js)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/patrick.js#7091)
-
----
 
 ### 🎨 **Curiosidades sobre mim**
 
