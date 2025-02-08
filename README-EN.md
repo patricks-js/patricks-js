@@ -7,15 +7,15 @@
 
 [🇧🇷 Versão em Português](./README.md)
 
-### ⚡ **Who is Patrick?**
+### ⚡ **About me**
 
-Hi there! I'm **Lucas Patrick**, a **full-stack web developer** passionate about technology. My primary programming language is **JavaScript**, and I specialize in modern tools and frameworks like **Next.js**, **Node/Bun**, and **React Native**.
+Hi! I'm **Lucas Patrick**, a **full-stack web developer** passionate about technology and innovation. My main programming language is **JavaScript**, and I work with modern technologies like **Next.js**, **Node.js/Bun**, and **React Native/Expo**.  
 
-Currently, I'm studying Software Engineering at [Jala University](https://jala.university/pt/). I'm driven by curiosity and enjoy solving problems, sharing knowledge, and exploring new technologies.
+I’m currently studying **Software Engineering** at [Jala University](https://jala.university/pt/). Driven by curiosity, I love solving problems, sharing knowledge, and exploring new technologies to build efficient and scalable solutions.
 
 ### 🛠️ **Technologies**
 
-[![Technologies](https://skillicons.dev/icons?i=ts,next,tailwindcss,nodejs,bun,vitest,prisma,postgres,mongo&perline=10)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=ts,next,tailwindcss,nodejs,nestjs,bun,vitest,prisma,postgres,mongo,java,spring&perline=10)](https://skillicons.dev)
 
 ### ⚙️ **Tools I Use**
 
@@ -27,9 +27,3 @@ Currently, I'm studying Software Engineering at [Jala University](https://jala.u
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_patrick.js)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patricks-js)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/patrick.js#7091)
-
-### 🎨 **Fun Facts About Me**
-
-- **🖥️ OS:** I use Arch, btw. 😉
-- **📚 Interests:** Learning about artificial intelligence and improving my skills in programming.
-- **🌱 Philosophy:** Never stop learning and sharing knowledge.
