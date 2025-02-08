@@ -15,7 +15,7 @@ Atualmente, curso **Engenharia de Software** na [Jala University](https://jala.u
 
 ### 🛠️ **Tecnologias**
 
-[![Technologies](https://skillicons.dev/icons?i=ts,next,tailwindcss,nodejs,bun,vitest,prisma,postgres,mongo,java,spring&perline=10)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=ts,next,tailwindcss,nodejs,nestjs,bun,vitest,prisma,postgres,mongo,java,spring&perline=10)](https://skillicons.dev)
 
 ### ⚙️ **Ferramentas que Utilizo**
 
