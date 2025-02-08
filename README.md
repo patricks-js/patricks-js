@@ -7,15 +7,15 @@
 
 [🇺🇸 English Version](./README-EN.md)
 
-### ⚡ **Quem é Patrick?**
+### ⚡ **Sobre mim**  
 
-Olá, sou **Lucas Patrick**, um **desenvolvedor Web full-stack** apaixonado por tecnologia. Minha principal linguagem de programação é o **JavaScript**, e trabalho com ferramentas modernas como **Next.js**, **Node/Bun** e **React Native**. 
+Olá! Eu sou **Lucas Patrick**, um **desenvolvedor Web full-stack**, entusiasta da tecnologia. Minha principal linguagem de programação é **JavaScript**, e atuo com tecnologias modernas como **Next.js**, **Node.js/Bun** e **React Native/Expo**.  
 
-Atualmente, sou estudante de Engenharia de Software na [Jala University](https://jala.university/pt/). Sou movido pela curiosidade e gosto de resolver problemas, compartilhar conhecimento e explorar novas tecnologias.
+Atualmente, curso **Engenharia de Software** na [Jala University](https://jala.university/pt/). Sou movido pela curiosidade e adoro resolver problemas, compartilhar conhecimento e explorar novas tecnologias para criar soluções eficientes e escaláveis.
 
 ### 🛠️ **Tecnologias**
 
-[![Technologies](https://skillicons.dev/icons?i=ts,next,tailwindcss,nodejs,bun,vitest,prisma,postgres,mongo&perline=10)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=ts,next,tailwindcss,nodejs,bun,vitest,prisma,postgres,mongo,java,spring&perline=10)](https://skillicons.dev)
 
 ### ⚙️ **Ferramentas que Utilizo**
 
@@ -27,9 +27,3 @@ Atualmente, sou estudante de Engenharia de Software na [Jala University](https:/
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_patrick.js)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patricks-js)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/patrick.js#7091)
-
-### 🎨 **Curiosidades sobre mim**
-
-- **🖥️ OS:** Uso Arch, btw. 😉
-- **📚 Interesses:** Aprender sobre inteligência artificial e melhorar minhas habilidades em programação.
-- **🌱 Filosofia:** Nunca parar de aprender e compartilhar conhecimento.
